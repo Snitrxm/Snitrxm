@@ -6,6 +6,4 @@
   
  - 🏆 Projetos disponíveis em https://github.com/Snitrxm
   
- - 💻 Tecnologias 
-  - HTML
-  - JS
+ - 💻 Tecnologias que conheço **JavaScript, HTML, CSS, SQL, Node.JS, ReactJS, TypeScript**
