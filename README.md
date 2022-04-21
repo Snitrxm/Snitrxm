@@ -6,4 +6,6 @@
   
  - 🏆 Projetos disponíveis em https://github.com/Snitrxm
   
- - 💻 Tecnologias **HTML** 
+ - 💻 Tecnologias 
+  - HTML
+  - JS
