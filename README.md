@@ -31,3 +31,10 @@
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snitrxm&layout=compact&theme=tokyonight" alt="Snitrxm's Most Languages" />
   </p>
   
+  <br/>
+  
+  ## &nbps;Social Links
+  [![LInkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+  (https://www.linkedin.com/in/andre-rocha-aba7b7229/)
+  
+  
