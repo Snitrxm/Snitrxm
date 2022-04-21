@@ -6,7 +6,7 @@
   
  - 🏆 Projetos disponíveis em https://github.com/Snitrxm
   
-  <br/><br/>
+  <br/>
   
   ## 💻 &nbsp;Tecnologias que domino
   
