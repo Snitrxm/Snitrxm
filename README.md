@@ -34,7 +34,7 @@
   <br/>
   
   ## &nbps;Social Links
-  [![LInkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-  (https://www.linkedin.com/in/andre-rocha-aba7b7229/)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-rocha-aba7b7229/)
+
   
   
