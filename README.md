@@ -2,8 +2,11 @@
   
  - 🔥 Desenvolvedor FullStack jr
   
- - 🔭 Atualmento faço projetos pessoais
+ - 🔭 Atualmento faço projetos pessoais e estudo programação
   
  - 🏆 Projetos disponíveis em https://github.com/Snitrxm
   
- - 💻 Tecnologias que conheço **JavaScript, HTML, CSS, SQL, Node.JS, ReactJS, TypeScript**
+  ## 💻 &nbsp;Tecnologias que domino
+  
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
