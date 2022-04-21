@@ -5,3 +5,5 @@
  - 🔭 Atualmento faço projetos pessoais
   
  - 🏆 Projetos disponíveis em https://github.com/Snitrxm
+  
+ - 💻 Tecnologias **HTML** 
