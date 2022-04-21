@@ -4,4 +4,4 @@
   
  - 🔭 Atualmento faço projetos pessoais
   
- - 🏆 Projetos disponíveis em [https://github.com/Snitrxm]
+ - 🏆 Projetos disponíveis em https://github.com/Snitrxm
