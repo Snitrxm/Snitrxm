@@ -2,7 +2,7 @@
   
  - 🔥 Desenvolvedor FullStack jr
   
- - 🔭 Atualmento faço projetos pessoais e estudo programação
+ - 🔭 Atualmente faço projetos pessoais e estudo programação
   
  - 🏆 Projetos disponíveis em https://github.com/Snitrxm
   
