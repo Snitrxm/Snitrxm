@@ -1,14 +1,14 @@
-<h1> Salve, Salve! Eu sou André Rocha <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"</h1> 
+<h1>Hey, My name is André Rocha <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"</h1> 
   
- - 🔥 Desenvolvedor FullStack jr
+ - 🔥 FullStack Developer Jr
   
- - 🔭 Atualmente faço projetos pessoais e estudo programação
+ - 🔭 Currently I do personal projects and study programming
   
- - 🏆 Projetos disponíveis em https://github.com/Snitrxm
+ - 🏆 Projects available at https://github.com/Snitrxm
   
   <br/>
   
-  ## 💻 &nbsp;Tecnologias que domino
+  ## 💻 &nbsp;Technologies I master
   
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   
