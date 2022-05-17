@@ -1,10 +1,16 @@
 <h1>Hey, My name is André Rocha <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"</h1> 
+ 
+ - 📅 I'm 15 Years Old
+  
+ - 🇧🇷 Brazillian 
   
  - 🔥 FullStack Developer Jr
   
  - 🔭 Currently I do personal projects and study programming
   
  - 🏆 Projects available at https://github.com/Snitrxm
+  
+  
   
   <br/>
   
