@@ -1,16 +1,16 @@
-<h1>Hey, My name is André Rocha <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"</h1> 
+# Hey, My name is André Rocha, Full Stack Developer with 15 Years
  
- - 📅 I'm 15 Years Old
-  
- - 🇧🇷 Brazillian 
-  
- - 🔥 FullStack Developer Jr
-  
- - 🔭 Currently I do personal projects and study programming
-  
- - 🏆 Projects available at https://github.com/Snitrxm
-  
-  
+ ```typescript
+  const me = {
+   name: 'Andre Rocha',
+   age: 15,
+   techs: ['Html', 'CSS', 'Javascript', 'Typescript', 'ReactJs', 'NodeJS', 'mySQL', 'mongoDB']
+   }
+   
+   export default me;
+   
+  }
+ ```
   
   <br/>
   
