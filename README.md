@@ -8,8 +8,6 @@
    }
    
    export default me;
-   
-  }
  ```
   
   <br/>
