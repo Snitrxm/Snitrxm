@@ -1,6 +1,6 @@
 # Hey, My name is André Rocha, Full Stack Developer with 15 Years
  
- ```typescript
+ ```js
   const me = {
    name: 'Andre Rocha',
    age: 15,
