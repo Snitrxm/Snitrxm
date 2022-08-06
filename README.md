@@ -4,7 +4,7 @@
   const me = {
    name: 'Andre Rocha',
    age: 15,
-   techs: ['Javascript', 'Typescript', 'ReactJs', 'NodeJS', 'Prisma', 'Docker', 'mySQL', 'mongoDB']
+   techs: ['Typescript', 'NodeJS', 'Prisma', 'Docker', 'Docker compose', 'Postgresql', 'mongoDB']
    }
    
    export default me;
