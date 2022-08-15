@@ -1,4 +1,4 @@
-# Hey, My name is André Rocha, Full Stack Developer with 15 Years
+# Hey, My name is André Rocha, A Backend developer
  
  ```js
   const me = {
