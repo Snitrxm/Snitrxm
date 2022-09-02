@@ -1,10 +1,10 @@
 # Hey, My name is André Rocha, A Backend developer
  
- ```js
+ ```ts
   const me = {
    name: 'Andre Rocha',
    age: 15,
-   techs: ['Typescript', 'NodeJS', 'Prisma', 'Docker', 'Docker compose', 'Postgresql', 'mongoDB']
+   techs: ['Typescript', 'NodeJS', 'Go', 'Docker', 'Docker compose', 'Postgresql', 'AWS']
    }
    
    export default me;
