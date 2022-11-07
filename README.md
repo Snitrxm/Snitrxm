@@ -3,7 +3,7 @@
  ```ts
   const me = {
    name: 'Andre Rocha',
-   age: 15,
+   age: 16,
    techs: ['Typescript', 'NodeJS', 'Go', 'Docker', 'Docker compose', 'Postgresql', 'AWS']
    }
    
