@@ -1,4 +1,4 @@
-# Hey, My name is André Rocha, A Backend developer
+# Hey, My name is André Rocha, A FullStack developer
  
  ```ts
   const me = {
